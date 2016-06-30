@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1096016759854",
+    "project_id": "virtual-aileron-135723"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1096016759854:android:78804498cf0df708",
+        "android_client_info": {
+          "package_name": "com.example.cholid_ridwan.tessigningoogle"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1096016759854-df9n3cgf784c7h0m810b8n7dof5bdfpl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.cholid_ridwan.tessigningoogle",
+            "certificate_hash": "4DF19DBE6AF4137740AA59335065FE2B330B340A"
+          }
+        },
+        {
+          "client_id": "1096016759854-lf5nhmmspn0p9tt73hqfamjs49noa9md.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJobGjv_W1fkY9KanDcbsfbrsi-IlVAWc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
